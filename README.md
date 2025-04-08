@@ -29,7 +29,7 @@ Interactive slicers for real-time filtering
 
 Clean layout optimized for user experience
 
-🖼️ Preview![Screenshot 2025-04-08 113901](https://github.com/user-attachments/assets/4b02b2c9-a712-4104-9880-e88ffe5ce9a3)
+![Dashboard Preview](https://raw.githubusercontent.com/OmarKhaliid66/Restaurant-Sales-PowerBI/main/Screenshot%202025-04-08%20113901.png)
 
 
 This README file with project documentation
